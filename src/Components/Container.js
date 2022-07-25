@@ -8,7 +8,7 @@ export default function Container(props) {
   });
 
   return (
-    <div className="container mx-auto  w-10/12 mt-5 h-full md:bd-red lg:w-4/12 lg:bg-yellow md:bg-red sm:w-5/12 bg-white">
+    <div className="container mx-auto w-11/12 md:bd-red  lg:bg-yellow md:bg-red sm:bg-yellow">
       {drinkData}
     </div>
   );

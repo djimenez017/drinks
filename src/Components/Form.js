@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Form() {
   return (
-    <form className="text-center flex justify-center flex-col justify-items-center w-10/12 lg:bg-red m-auto mt-5 sm:w-4/12">
+    <form className="text-center flex justify-center flex-col justify-items-center w-11/12 lg:bg-red m-auto mt-5 sm:w-4/12 ">
       <label htmlFor="drink" className="font-bold">
         Search your favorite Mixed Drinks
       </label>

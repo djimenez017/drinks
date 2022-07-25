@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Card({ data }) {
-  console.log(data);
   return (
     <div className="flex flex-col items-center bg-dark rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 m-5">
       <img
